@@ -4,6 +4,7 @@
 /build/www/**
 /conduit-web/src/test/javascript/coverage/
 /conduit-web/src/test/javascript/PhantomJS*/
+/conduit-web/src/test/
 
 ######################
 # Node
@@ -69,6 +70,8 @@ local.properties
 ######################
 /log/
 /target/
+/conduit-web/target/
+/conduit-data/target/
 
 ######################
 # Gradle
