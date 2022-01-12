@@ -103,4 +103,9 @@
 		</plugins>
 	</build>
 
+	<scm>
+		<developerConnection>scm:git:https://github.com/matiasbrascescoglobant/springboot-java-conduit.git</developerConnection>
+		<tag>HEAD</tag>
+	</scm>
+
 </project>
